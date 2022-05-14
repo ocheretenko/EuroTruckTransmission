@@ -1,0 +1,14 @@
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.csproj.AssemblyReference.cache
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.csproj.SuggestedBindingRedirects.cache
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.Form1.resources
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.Properties.Resources.resources
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.csproj.GenerateResource.cache
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.csproj.CoreCompileInputs.cache
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\bin\Debug\EuroTruckTransmission.exe.config
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\bin\Debug\EuroTruckTransmission.exe
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\bin\Debug\EuroTruckTransmission.pdb
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\bin\Debug\Nefarius.ViGEm.Client.dll
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\bin\Debug\XInput.Wrapper.dll
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.csproj.CopyComplete
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.exe
+D:\!Portable\!Visual Studio\EuroTruckTransmission\EuroTruckTransmission\obj\Debug\EuroTruckTransmission.pdb
